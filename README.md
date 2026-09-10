@@ -1,1 +1,5 @@
-# 2025-2029_AshishKumarSinha_0519_03sem_2CSE6
+1.Project 1: Security Authentication System.
+<br>
+2.Project 2: AI Based Sentiment Analizer.
+<br>
+Devloper:-Ashish Kumar Sinha
